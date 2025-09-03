@@ -1,66 +1,197 @@
 <!-- GitHub Profile README -->
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm **Cryst**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Code+%7C+Create+%7C+Innovate+%E2%9A%A1" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=cryst-hq&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cryst-hq)
+[![GitHub followers](https://img.shields.io/github/followers/cryst-hq?label=Followers&style=social)](https://github.com/cryst-hq?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/cryst-hq?label=Stars&style=social)](https://github.com/cryst-hq)
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me</b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```typescript
+const egon = {
+    location: "Building the future, one commit at a time 🌍",
+    code: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
+    askMeAbout: ["web dev", "tech", "automation", "open source"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "SASS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "Fastify"],
+            python: ["Django", "Flask", "FastAPI"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        devOps: ["Docker", "AWS", "CI/CD", "Linux"],
+        tools: ["Git", "Webpack", "Vite", "Jest"]
+    },
+    currentFocus: "Building scalable web applications & exploring AI/ML",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Arsenal </b>
 
 <div align="center">
-  
-# 👋 Hi, I'm Egon  
 
-💻 Developer | 🚀 Builder | 🎨 Creator  
-
-![Profile Views](https://komarev.com/ghpvc/?username=cryst-hq&color=grey)
-
----
-
-## 🖤 About Me
-- 🔭 Currently building cool projects & automations  
-- 🌱 Always learning & exploring new tech  
-- ⚡ Love clean design & smooth user experience  
-
----
-
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" />
+### 🚀 Languages & Frameworks
+<p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,vue,django,flask,express" />
 </p>
 
----
-
-## 🌟 Featured Projects
-- [🔗 Project 1](https://github.com/cryst-hq/PROJECT1) — Short description  
-- [🔗 Project 2](https://github.com/cryst-hq/PROJECT2) — Short description  
-- [🔗 Project 3](https://github.com/cryst-hq/PROJECT3) — Short description  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryst-hq&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryst-hq&layout=compact&theme=radical" height="180" />
+### 🛠️ Tools & Technologies  
+<p>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,mongodb,mysql,postgres,redis,tailwind,sass" />
 </p>
 
+### 🔧 Development Environment
+<p>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,jest,webpack,vite,npm" />
+</p>
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 💻 Tech Stack | 🔗 Links | 📊 Stats |
+|------------|---------------|-----------|----------|
+| **🚀 Project Alpha** | React, Node.js, MongoDB | [Demo](https://github.com/cryst-hq/PROJECT1) • [Code](https://github.com/cryst-hq/PROJECT1) | ![Stars](https://img.shields.io/github/stars/cryst-hq/PROJECT1?style=flat-square) |
+| **⚡ Project Beta** | Next.js, TypeScript, PostgreSQL | [Demo](https://github.com/cryst-hq/PROJECT2) • [Code](https://github.com/cryst-hq/PROJECT2) | ![Stars](https://img.shields.io/github/stars/cryst-hq/PROJECT2?style=flat-square) |
+| **🌟 Project Gamma** | Python, Django, AWS | [Demo](https://github.com/cryst-hq/PROJECT3) • [Code](https://github.com/cryst-hq/PROJECT3) | ![Stars](https://img.shields.io/github/stars/cryst-hq/PROJECT3?style=flat-square) |
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cryst-hq&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryst-hq&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=cryst-hq&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+### 🔥 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cryst-hq&custom_title=Egon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+
+</div>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/cryst-hq">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cryst-hq">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/cryst-hq">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 💫 "Code is poetry written in logic"
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Thanks for stopping by! Let's build something amazing together** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+
+</div>
+
 ---
 
-## 🔥 Streaks & Quotes
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cryst-hq&theme=radical" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<details>
+<summary><b>🎮 When I'm not coding...</b></summary>
 
----
+<br>
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/cryst-hq"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/cryst-hq"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/cryst-hq"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter" /></a>
-</p>
+```ascii
+####****+++++++=======-----:::::::::-------------------:::::::------=======+++++++*****###
+###******++++++========-----:-::::::::--------------::::::::::-----========++++++*****####
+####*****+++++++========--------::::::::::-------::::::::::-------========+++++++*****####
+#####*****++++++++=======------:::::::-%%#+:::::::::::::::------=========+++++++*****#####
+######*****+++++++=========-------::=@@@@@%@@@@@@@@@@@=--------=========+++++++*****######
+######******+++++++==========-----%@@@@@@@@@@@@@@@@@@@@@@%=-===========+++++++******######
+#######******++++++++========*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%========+++++++******#######
+########******++++++++======%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+=====++++++++******########
+##########******++++++++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+==+++++++++******#########
+###########******+++++++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+++++++++******###########
+############*******++++*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+++++*******############
+##############******@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@********##############
+###############****@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@%****################
+#################*@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%%@@@@@@@@@@@@@@@@@@@@@@#*#################
+##################@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%#################
+#################%@@@@@@@@@@@@@@@@@@%@@%%%###**#%%%@@@@@@@@@@@@@@@@@@@@@%#################
+#################%@@@@@@@@@@@@@@@@@@@@@%%####*+=#%%%@@@@@@@@@@@@@@@@@@@@%#################
+##################@@@@@@@@@@@@@@@@@@@@@%%##*+===#%%%%@@@@@@@@@@@@@@@@@@@%#################
+*################@@@@@@@@@@@@@@@@@@@@@@%%%#++==#%%%@@@@@@@@@@@@@@@@@@@@@%################*
+***###############@@@@@@@@@@@@@@@@@@@@@%@%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%##############***
+*****#############%@@@@@@@@@@@@@@@@@@@@@@@%@%@@%@@@@@@@@@@@@@@@@@@@@@@@@@############*****
+*******###########@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###########*******
+**********########%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@%#########*********
+************######@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#######************
+***************###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###****************
+++****************######@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*****************+
+++++*******************#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#***************++++
++++++++******************@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#**************+++++++
+==++++++++***************@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@**************+++++++==
+====+++++++++************#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@**********+++++++++====
+=======++++++++++*********#@%%@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@*******++++++++++=======
+===========++++++++++*******%#%@@@@@@@@@%#%@@@@@@@@@@@@@@@@@@@@@%***+++++++++++===========
+---===========+++++++++++++*+##%@@@@@@@@@@@%@@@@@@%%%%@@@@@@@@%*+++++++++++============---
+------==============++++++++*%*#%@@@@@@@@@@%%@@@%@%%%%@@@@@@@@++++++++=+============------
+----------===============+++#@#*#%@@@@@@@@%#@%%%%@@%%%@@@@@@@++++===============----------
+--------------==============*%@#*#%@@@@@@@@@@@%%%%%%@@@@@@@%+===============--------------
+------------------==========*%@@#+#%@@@@@%%%%%%%@@%%@@@@@@%%===========-------------------
+-:-----------------------===%@@@@@+*%@@@@@%%%%######%@@@%#@+======-----------------------:
+::::-----------------------=%@@@@@@%+#@@@@@%######%%@@%#@@%--------------------------:-:::
+::::::::-------------------=%@@@@@@@@@**%@@@@@@@@@@@%%@@@@+-----------------------::::::::
+:::::::::::-----------------#@@@@@@@@@@@%+#%@@%%##%@@@@@@%--------------------::::::::::::
+:::::::::::::::::-:---------=@@@@@@@@@@@@@@@@@@@@@@@@@%@@----------------:::::::::::::::::
+:::::::-:::-:::::::::::-:-----%@@@@@@@@@@@@@@%@@@@@@@@@@#---------::::::::::::::::::::-:::
+::::::::::::::::::::::::::::-::-+%@@@@@@@@@@@@@@@@@@%@@@=:::::::::::::::::::::::::::::::::
+::::::::::::::-:::::::::::::::-:::::-=*@@%@@@@@@@@@@@@@#:-::::::::::::::::::::::::::::::::
+:::::::::::::::::-:::::::::::::::::::::::::-#@@%@@@@@@%-::::::::::::::::::::::::::-:::::::
+-:-:::::::::-::::-:::::::-:::::::::::::::::::::::-+**=::::::-::::-::::::::::::::::-:::::::
+-:::::::-::::::::::::::::::::::::::::-::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::-::::::::::::::::::::::::::::::::::::::-:::::-:::-:::::-:::--::::::::::::-::::::::::::
+```
+
+</details>
 
 </div>
