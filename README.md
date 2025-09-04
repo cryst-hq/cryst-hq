@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm **Egon**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm **Cryst**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Code+%7C+Create+%7C+Innovate+%E2%9A%A1" alt="Typing SVG" />
 
